@@ -1,8 +1,8 @@
 ## About Cadastro - Pacientes
 
-Projeto desenvolvido com as 04 funcionalidades básicas: create, delete, update, read.
-conta também com a integração e autenticação da tela de login.
-Tecnologias usadas ->
+A project developed with the 04 basic functionalities: create, delete, update, read. 
+It also has the integration and authentication of the login screen.
+Technologies used:
 
 - Laravel.
 - Bootstrap.
